@@ -25,10 +25,10 @@
 [<img align="left" alt="DiegoNavarro | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/480px-LinkedIn_logo_initials.png" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" />][instagram]
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+[twitter]: https://x.com/DiegoNa71833637
+[youtube]: https://www.youtube.com/@diegonavarro1079
+[instagram]: https://www.instagram.com/its.dggr107/
+[linkedin]: https://www.linkedin.com/in/diego-navarro-5927012b1/
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -41,6 +41,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 -->
