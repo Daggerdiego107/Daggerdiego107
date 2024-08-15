@@ -23,7 +23,7 @@
 [<img align="left" alt="DiegoNavarro | YouTube" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png" />][youtube]
 [<img align="left" alt="DiegoNavarro | Twitter" width="22px" src="https://img.freepik.com/vector-gratis/nuevo-diseno-icono-x-logotipo-twitter-2023_1017-45418.jpg?size=338&ext=jpg&ga=GA1.1.2008272138.1723680000&semt=ais_hybrid" />][twitter]
 [<img align="left" alt="DiegoNavarro | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/480px-LinkedIn_logo_initials.png" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://c0.klipartz.com/pngpicture/564/543/gratis-png-instagram-iconos-de-computadora-instagram-thumbnail.png" />][instagram]
+[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" />][instagram]
 
 [twitter]: https://twitter.com/joshmadakor
 [youtube]: https://www.youtube.com/c/joshmadakor
