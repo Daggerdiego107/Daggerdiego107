@@ -10,6 +10,7 @@
 - <b> Python </b>
   - [Roman Number Converter](https://github.com/Daggerdiego107/Roman-Number-Converter)
   - [Hexadecimal Number Converter](https://github.com/Daggerdiego107/Hexadecimal-Number-Converter)
+  - [Loteria Game](https://github.com/Daggerdiego107/Loteria-Game)
  
 - <b> Languages </b>
   - Spanish: Native Language
