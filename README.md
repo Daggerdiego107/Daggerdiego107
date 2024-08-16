@@ -30,10 +30,10 @@
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" />][instagram]
 
 [twitter]: https://x.com/DiegoNa71833637
-[gmail]: href="mailto:dirreccionprueba@gmail.com?subject=Estas%20Contratado">Enviar correo con asunto y cuerpo predeterminado
 [youtube]: https://www.youtube.com/@diegonavarro1079
 [instagram]: https://www.instagram.com/its.dggr107/
 [linkedin]: https://www.linkedin.com/in/diego-navarro-5927012b1/
+[gmail]: mailto:dirreccionprueba@gmail.com?subject=Estas%20Contratado
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
