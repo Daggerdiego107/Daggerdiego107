@@ -21,11 +21,11 @@
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm) -->
 
-  - 🌱 I’m currently learning...
+  - I’m currently learning...
     
-    <img align="left" alt="DiegoNavarro | Python" width="20px" src="https://i.pinimg.com/originals/82/a2/18/82a2188c985ce75402ae44fc43fe7e5e.png"/> Python
+    <img align="left" alt="DiegoNavarro | Python" width="22px" src="https://i.pinimg.com/originals/82/a2/18/82a2188c985ce75402ae44fc43fe7e5e.png"/> Python
     
-    <img align="left" alt="DiegoNavarro | C++" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/3/32/C%2B%2B_logo.png"/> C++
+    <img align="left" alt="DiegoNavarro | C++" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/3/32/C%2B%2B_logo.png"/> C++
 
 
     
