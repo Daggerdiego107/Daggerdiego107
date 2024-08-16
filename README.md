@@ -21,9 +21,13 @@
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm) -->
 
+  - 🌱 I’m currently learning...
+      [<img align="left" alt="DiegoNavarro | Python" width="22px" src="https://w7.pngwing.com/pngs/140/948/png-transparent-blue-and-yellow-logo-python-logo-programmer-fierce-python-s-cdr-angle-text-thumbnail.png"/>] Python
+      [<img align="left" alt="DiegoNavarro | Python" width="22px" src="https://w7.pngwing.com/pngs/46/626/png-transparent-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template-blue.png"/>] C++
+
 <h2> Connect with me:</h2>
 
-[<img align="left" alt="DiegoNavarro | Gmail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1200px-Gmail_icon_%282020%29.svg.png" />][gmail]
+[gmail]
 [<img align="left" alt="DiegoNavarro | YouTube" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png" />][youtube]
 [<img align="left" alt="DiegoNavarro | Twitter" width="22px" src="https://img.freepik.com/vector-gratis/nuevo-diseno-icono-x-logotipo-twitter-2023_1017-45418.jpg?size=338&ext=jpg&ga=GA1.1.2008272138.1723680000&semt=ais_hybrid" />][twitter]
 [<img align="left" alt="DiegoNavarro | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/480px-LinkedIn_logo_initials.png" />][linkedin]
@@ -41,7 +45,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
