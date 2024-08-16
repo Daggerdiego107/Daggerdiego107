@@ -4,7 +4,7 @@
 
 - <b> C++ </b>
   - [Movie Sorting and Rating System from .txt](https://github.com/Daggerdiego107/Movie-Sorting-and-Rating-System-from-.txt)
-  - [University Billing and Inscribing System]()
+  - [University Billing and Inscribing System](https://github.com/Daggerdiego107/University-Billing-and-Inscribing-System)
   - [Hotel Check-In System]()
 
 - <b> Python </b>
