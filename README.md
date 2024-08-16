@@ -24,7 +24,7 @@
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm) -->
 
-  - I’m currently learning...
+  - I currently develop on...
     
     <img align="left" alt="DiegoNavarro | Python" width="22px" src="https://i.pinimg.com/originals/82/a2/18/82a2188c985ce75402ae44fc43fe7e5e.png"/> Python
     
