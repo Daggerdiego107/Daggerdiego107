@@ -22,7 +22,8 @@
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm) -->
 
   - 🌱 I’m currently learning...
-      [<img align="left" alt="DiegoNavarro | Python" width="22px" src="https://w7.pngwing.com/pngs/140/948/png-transparent-blue-and-yellow-logo-python-logo-programmer-fierce-python-s-cdr-angle-text-thumbnail.png"/>] ("Python")
+    
+      <img align="left" alt="DiegoNavarro | Python" width="22px" src="https://w7.pngwing.com/pngs/140/948/png-transparent-blue-and-yellow-logo-python-logo-programmer-fierce-python-s-cdr-angle-text-thumbnail.png"/> ("Python")
     
       [<img align="left" alt="DiegoNavarro | Python" width="22px" src="https://w7.pngwing.com/pngs/46/626/png-transparent-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template-blue.png"/>] ("C++")
 
