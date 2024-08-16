@@ -23,7 +23,7 @@
 
 <h2> Connect with me:</h2>
 
-[<img align="left" alt="DiegoNavarro | Gmail" width="22px" src="https://w7.pngwing.com/pngs/608/931/png-transparent-gmail-new-logo-icon.png" />][gmail]
+[<img align="left" alt="DiegoNavarro | Gmail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1200px-Gmail_icon_%282020%29.svg.png" />][gmail]
 [<img align="left" alt="DiegoNavarro | YouTube" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png" />][youtube]
 [<img align="left" alt="DiegoNavarro | Twitter" width="22px" src="https://img.freepik.com/vector-gratis/nuevo-diseno-icono-x-logotipo-twitter-2023_1017-45418.jpg?size=338&ext=jpg&ga=GA1.1.2008272138.1723680000&semt=ais_hybrid" />][twitter]
 [<img align="left" alt="DiegoNavarro | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/480px-LinkedIn_logo_initials.png" />][linkedin]
@@ -33,7 +33,7 @@
 [youtube]: https://www.youtube.com/@diegonavarro1079
 [instagram]: https://www.instagram.com/its.dggr107/
 [linkedin]: https://www.linkedin.com/in/diego-navarro-5927012b1/
-[gmail]: mailto:dirreccionprueba@gmail.com?subject=Estas%20Contratado
+[gmail]: mailto:diegoanr511@gmail.com?subject=Estas%20Contratado!
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
