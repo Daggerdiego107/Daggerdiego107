@@ -3,9 +3,9 @@
 <h2> Software Development Projects:</h2>
 
 - <b> C++ </b>
-  - [Movie Sorting and Rating System from .txt](https://github.com/Daggerdiego107/Movie-Sorting-and-Rating-System-from-.txt)
+  - [Movie Sorting and Rating from .txt](https://github.com/Daggerdiego107/Movie-Sorting-and-Rating-System-from-.txt)
   - [University Billing and Inscribing System](https://github.com/Daggerdiego107/University-Billing-and-Inscribing-System)
-  - [Hotel Check-In System]()
+  - [Hotel Check-In Program]()
 
 - <b> Python </b>
   - [Roman Number Converter](https://github.com/Daggerdiego107/Roman-Number-Converter)
