@@ -23,14 +23,14 @@
 
 <h2> Connect with me:</h2>
 
-[<img align="left" alt="DiegoNavarro | Gmail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png" />][gmail]
+[<img align="left" alt="DiegoNavarro | Gmail" width="22px" src="https://w7.pngwing.com/pngs/608/931/png-transparent-gmail-new-logo-icon.png" />][gmail]
 [<img align="left" alt="DiegoNavarro | YouTube" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png" />][youtube]
 [<img align="left" alt="DiegoNavarro | Twitter" width="22px" src="https://img.freepik.com/vector-gratis/nuevo-diseno-icono-x-logotipo-twitter-2023_1017-45418.jpg?size=338&ext=jpg&ga=GA1.1.2008272138.1723680000&semt=ais_hybrid" />][twitter]
 [<img align="left" alt="DiegoNavarro | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/480px-LinkedIn_logo_initials.png" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" />][instagram]
 
 [twitter]: https://x.com/DiegoNa71833637
-[gmail]: <a href="mailto:dirreccionprueba@gmail.com?subject=Estas%20Contratado">Enviar correo con asunto y cuerpo predeterminado</a>
+[gmail]: href="mailto:dirreccionprueba@gmail.com?subject=Estas%20Contratado">Enviar correo con asunto y cuerpo predeterminado
 [youtube]: https://www.youtube.com/@diegonavarro1079
 [instagram]: https://www.instagram.com/its.dggr107/
 [linkedin]: https://www.linkedin.com/in/diego-navarro-5927012b1/
