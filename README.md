@@ -27,6 +27,9 @@
     
       <img align="left" alt="DiegoNavarro | C++" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/3/32/C%2B%2B_logo.png"/> C++
 
+
+    
+
 <h2> Connect with me:</h2>
 
 [<img align="left" alt="DiegoNavarro | Gmail" width="22px" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" />][gmail]
