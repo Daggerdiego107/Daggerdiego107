@@ -23,9 +23,9 @@
 
   - 🌱 I’m currently learning...
     
-      <img align="left" alt="DiegoNavarro | Python" width="22px" src="https://w7.pngwing.com/pngs/140/948/png-transparent-blue-and-yellow-logo-python-logo-programmer-fierce-python-s-cdr-angle-text-thumbnail.png"/> ("Python")
+      <img align="left" alt="DiegoNavarro | Python" width="22px" src="https://w7.pngwing.com/pngs/140/948/png-transparent-blue-and-yellow-logo-python-logo-programmer-fierce-python-s-cdr-angle-text-thumbnail.png"/> Python
     
-      [<img align="left" alt="DiegoNavarro | Python" width="22px" src="https://w7.pngwing.com/pngs/46/626/png-transparent-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template-blue.png"/>] ("C++")
+      <img align="left" alt="DiegoNavarro | C++" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/3/32/C%2B%2B_logo.png"/> C++
 
 <h2> Connect with me:</h2>
 
