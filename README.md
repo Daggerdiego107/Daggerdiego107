@@ -71,7 +71,7 @@
 [instagram]: https://www.instagram.com/its.dggr107/
 [linkedin]: https://www.linkedin.com/in/diego-navarro-5927012b1/
 [gmail]: mailto:diegoanr511@gmail.com?subject=Estas%20Contratado!
-[whatsapp]: https://www.wa.link/ctds68
+[whatsapp]: https://wa.me/+523310745633
 
 
 <!--
