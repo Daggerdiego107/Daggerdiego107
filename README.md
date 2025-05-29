@@ -58,7 +58,7 @@
 
 <h2> Connect with me:</h2>
 
-[<img align="left" alt="DiegoNavarro | WhatsApp" width="22px" src="https://pngimg.com/uploads/whatsapp/whatsapp_PNG21.png"/>][whatsapp]
+[<img align="left" alt="DiegoNavarro | WhatsApp" width="22px" src="https://pngimg.com/uploads/whatsapp/whatsapp_PNG21.png" target="_blank"/>][whatsapp]
 [<img align="left" alt="DiegoNavarro | Gmail" width="22px" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" />][gmail]
 [<img align="left" alt="DiegoNavarro | YouTube" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png" />][youtube]
 [<img align="left" alt="DiegoNavarro | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/480px-LinkedIn_logo_initials.png" />][linkedin]
