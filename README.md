@@ -34,8 +34,24 @@
   - I currently develop on...
     
     - <img align="left" alt="DiegoNavarro | Python" width="22px" src="https://i.pinimg.com/originals/82/a2/18/82a2188c985ce75402ae44fc43fe7e5e.png"/> Python
+   
+    - <img align="left" alt="DiegoNavarro | Selenium" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Selenium_Logo.png/980px-Selenium_Logo.png"/> Selenium
+   
+    - <img align="left" alt="DiegoNavarro | PyeTst" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Pytest_logo.svg"/> PyTest
     
     - <img align="left" alt="DiegoNavarro | C++" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/3/32/C%2B%2B_logo.png"/> C++
+   
+    - <img align="left" alt="DiegoNavarro | HTML" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png"/> HTML
+   
+    - <img align="left" alt="DiegoNavarro | CSS" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png"/> CSS
+   
+    - <img align="left" alt="DiegoNavarro | JavaScript" width="22px" src="https://static.vecteezy.com/system/resources/previews/027/127/463/non_2x/javascript-logo-javascript-icon-transparent-free-png.png"/> JavaScript
+   
+    - <img align="left" alt="DiegoNavarro | React" width="22px" src="https://cdn.freelogovectors.net/wp-content/uploads/2023/02/react_logo-freelogovectors.net_-180x101.png"/> React
+   
+    - <img align="left" alt="DiegoNavarro | Flutter" width="22px" src="https://images.seeklogo.com/logo-png/35/2/flutter-logo-png_seeklogo-354671.png"/> Flutter
+   
+    - <img align="left" alt="DiegoNavarro | Dart" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png"/> Dart
 
 
     
