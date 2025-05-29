@@ -56,19 +56,12 @@
 
     
 
-<h2> Connect with me:</h2>
+### Connect with me
 
-[<img align="left" alt="DiegoNavarro | WhatsApp" width="22px" src="https://pngimg.com/uploads/whatsapp/whatsapp_PNG21.png" target="_blank"/>][whatsapp]
-[<img align="left" alt="DiegoNavarro | Gmail" width="22px" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" />][gmail]
-[<img align="left" alt="DiegoNavarro | YouTube" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png" />][youtube]
-[<img align="left" alt="DiegoNavarro | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/480px-LinkedIn_logo_initials.png" />][linkedin]
-[<img align="left" alt="DiegoNavarro | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" />][instagram]
+| WhatsApp | Gmail | YouTube | LinkedIn | Instagram |
+|:--------:|:-----:|:-------:|:--------:|:---------:|
+| [![WhatsApp](https://pngimg.com/uploads/whatsapp/whatsapp_PNG21.png)](https://www.wa.link/ctds68) | [![Gmail](https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png)](mailto:diegoanr511@gmail.com?subject=Estas%20Contratado!) | [![YouTube](https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png)](https://www.youtube.com/@diegonavarro1079) | [![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/480px-LinkedIn_logo_initials.png)](https://www.linkedin.com/in/diego-navarro-5927012b1/) | [![Instagram](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png)](https://www.instagram.com/its.dggr107/) |
 
-[youtube]: https://www.youtube.com/@diegonavarro1079
-[instagram]: https://www.instagram.com/its.dggr107/
-[linkedin]: https://www.linkedin.com/in/diego-navarro-5927012b1/
-[gmail]: mailto:diegoanr511@gmail.com?subject=Estas%20Contratado!
-[whatsapp]: https://www.wa.link/ctds68
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
