@@ -12,6 +12,9 @@
   - [Hexadecimal Number Converter](https://github.com/Daggerdiego107/Hexadecimal-Number-Converter)
   - [Loteria Game](https://github.com/Daggerdiego107/Loteria-Game)
  
+- <b> Find my CV Here! </b>
+  -[CV](https://drive.google.com/file/d/1eThrX57uydRCXdL2dNqGgvwsIPAgvjr7/view?usp=sharing)
+ 
 - <b> Languages </b>
   - Spanish: Native Language
   - English: C2 (Native Level)
