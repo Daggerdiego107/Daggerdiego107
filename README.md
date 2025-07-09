@@ -52,7 +52,7 @@
    
     - <img align="left" alt="DiegoNavarro | React" width="22px" src="https://cdn.freelogovectors.net/wp-content/uploads/2023/02/react_logo-freelogovectors.net_-180x101.png"/> React
    
-    - <img align="left" alt="DiegoNavarro | Flutter" width="22px" src="https://static-00.iconduck.com/assets.00/flutter-icon-1651x2048-ojswpayr.png"/> Flutter
+    - <img align="left" alt="DiegoNavarro | Flutter" width="22px" src="https://www.cdnlogo.com/logos/f/30/flutter.svg"/> Flutter
    
     - <img align="left" alt="DiegoNavarro | Dart" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png"/> Dart
 
